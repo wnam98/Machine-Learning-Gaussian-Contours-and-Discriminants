@@ -128,23 +128,3 @@ plt.plot(3,3,color = 'blue', marker = '^')
 plt.plot(4,4,color = 'blue', marker = '^')
 plt.plot(1,3,color = 'red', marker = '>' )
 plt.show()
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
